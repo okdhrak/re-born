@@ -1,0 +1,22 @@
+{
+  "name": "github-io",
+  "version": "1.0.0",
+  "description": "My riveting Nuxt.js project",
+  "author": "Hiroaki Okada",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "firebase": "^7.13.1",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2",
+    "vuex-persistedstate": "^3.0.1"
+  },
+  "devDependencies": {}
+}
